@@ -2,7 +2,7 @@ from conans import ConanFile
 
 class Conan(ConanFile):
     name = "stackblox_assets"
-    version = "1.1.0"
+    version = "2.0.0"
     description = "StackBlox assets"
     license = "MIT"
     url = f"https://github.com/ssrobins/conan-{name}"
